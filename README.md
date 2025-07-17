@@ -1,4 +1,4 @@
-# React-lasso-select
+# React-lasso-select #branch
 
 A responsive react tool for marking irregular areas in images (lasso / free select). No dependencies!
 
