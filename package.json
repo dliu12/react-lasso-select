@@ -42,7 +42,7 @@
     "format": "prettier -c .",
     "test": "vitest",
     "preview": "vite preview",
-    "prepare": "husky && npm run build",
+    "prepare": "husky",
     "prepublishOnly": "pnpm run build"
   },
   "peerDependencies": {
